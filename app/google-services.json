@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828104279152",
+    "firebase_url": "https://dairaapp-4ff9d-default-rtdb.firebaseio.com",
+    "project_id": "dairaapp-4ff9d",
+    "storage_bucket": "dairaapp-4ff9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828104279152:android:853969510fbd5ac30a60b5",
+        "android_client_info": {
+          "package_name": "com.example.dairaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828104279152-s2ftlmgfr5th87opr3ctp8g1v1268fgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOE2Tj1eJTk2-_dlX7zFusnrZvgLWuUeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828104279152-s2ftlmgfr5th87opr3ctp8g1v1268fgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
